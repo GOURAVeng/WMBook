@@ -16,12 +16,12 @@ This can be your Personal Word Meaning Book
 ## Screenshots:
 --------------
 
-[!Alt.](/image/menu.png "First page")
+[!Screenshot](menu.png)
 
-[!Alt.](/image/insertss.png "insert popup")
+[!Screenshot](/image/insertss.png)
 
-[!Alt.](/image/find.png "find popup")
+[!Screenshot](/image/find.png "find popup")
 
-[!Alt.](/image/delete.png "delete popup")
+[!Screenshot](/image/delete.png "delete popup")
 
-[!Alt.](/image/listOfWords.png "All Words page")
+[!Screenshot](/image/listOfWords.png "All Words page")
