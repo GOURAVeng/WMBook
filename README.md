@@ -16,12 +16,18 @@ This can be your Personal Word Meaning Book
 ## Screenshots:
 --------------
 
-[!Screenshot](menu.png)
+![](image/menu.png)
+-------------------------
 
-[!Screenshot](/image/insertss.png)
+![](image/insertss.png)
+-------------------------
 
-[!Screenshot](/image/find.png "find popup")
+![](image/find.png)
 
-[!Screenshot](/image/delete.png "delete popup")
+-------------------------
 
-[!Screenshot](/image/listOfWords.png "All Words page")
+![](image/delete.png)
+-------------------------
+
+![](image/listOfWords.png)
+-------------------------
